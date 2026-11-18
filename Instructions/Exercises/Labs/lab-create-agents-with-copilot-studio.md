@@ -36,16 +36,16 @@ You will use the Power Platform environment and **Lab Exercises** solution prepa
 - The environment and **Lab Exercises** solution created in the **ILT Setup** lab, or an existing environment and solution with equivalent permissions.
 - Completion of the **ILT Setup** lab if you do not already have an environment and solution prepared.
 
-## Exercise 0 Create a Power Platform environment
+## Create a Power Platform environment
 
-### Task 0.1 - Power Platform Admin Center
+### Power Platform Admin Center
 
 Before you start the lab exercises, you must create a development environment for you to work in.
 
 1. Open a web browser and navigate to the **Power Platform admin center** https://admin.powerplatform.microsoft.com/manage/environments. Sign in using the **credentials provided for this lab**.   
 1. If prompted, choose the option to stay signed in. Close any pop-up messages that are displayed.
 
-### Task 0.2 - Create a new environment
+### Create a new environment
 
 1. In the sidebar, select **Manage**.
 2. On the **Environments** page, select **+ New**.
@@ -87,7 +87,7 @@ Before you start the lab exercises, you must create a development environment fo
 
    ![Environment created in the Power Platform Admin center.](../../media/environment-created1.png)
 
-### Task 0.3 - Access Copilot Studio
+### Access Copilot Studio
 
 1. In a new browser tab, open **Copilot Studio** https://copilotstudio.microsoft.com/ and sign in if prompted.
 
@@ -123,7 +123,7 @@ Before you start the lab exercises, you must create a development environment fo
 >
 > **Remember these steps, as you will use them throughout the labs when you are redirected to the new UI or a different environment.**
 
-### Task 0.4 - Create a solution
+### Create a solution
 
 1. In the left navigation pane, select the ellipses (**...**), then select **Solutions**.
 2. Verify that **Default Solution** and **Common Data Services Default Solution** are listed.
@@ -155,6 +155,8 @@ Before you start the lab exercises, you must create a development environment fo
 12. You now have a Power Platform environment and solution to work in.
 
 ![New solution.](../../media/labex1-v1.png)
+
+**We have now created the solution that will be used in the upcoming steps. Let's move on to creating agents with Copilot Studio.**
 
 ## Exercise 1 - Create an agent from a template
 
