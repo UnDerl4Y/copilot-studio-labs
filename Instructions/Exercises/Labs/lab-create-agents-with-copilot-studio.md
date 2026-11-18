@@ -410,8 +410,6 @@ Your responsibilities include:
 
 1. In the **Test** pane, select the ellipses (**...**) next to the variables **{x}** icon, and toggle **Show activity map when testing** to **On** and **Track between topics** to **Off**.
 
-   ![Show activity map.](../../media/show-activity-map-v11.png)
-
 1. At the top of the **Test** pane, select the **Start new test session** icon **+**.
 
 1. Enter the following prompt:
